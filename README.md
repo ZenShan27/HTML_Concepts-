@@ -116,7 +116,7 @@ It is aimed to **master HTML fundamentals** and build a strong base for **CSS an
 - **Role:** Aspiring JAVA Full Stack Developer | Coding Enthusiast  
 - **Institute:** SJC Institute of Technology  
 - **Learning With:** TAP Academy & Striver DSA  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/Darshanmn27](https://github.com/Darshanmn27)
 
 ---
 
