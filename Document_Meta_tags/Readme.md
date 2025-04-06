@@ -12,7 +12,9 @@ This document provides an overview of the most essential HTML tags used inside t
 **🔹 Usage:** Ensures the browser uses the correct rendering mode for HTML5.
 
 **🔹 Example:**
-```html
+```
+---
+html
 <!DOCTYPE html>
 
 2. <html>
@@ -26,6 +28,7 @@ lang: Specifies the language of the document (e.g., en for English)
 <html lang="en">
   <!-- Head and body tags go here -->
 </html>
+---
 
 3. <head>
 🔹 Description: Contains metadata and links to scripts, styles, and other resources. It does not display content on the page.
